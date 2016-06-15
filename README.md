@@ -10,7 +10,7 @@ SensorWeb is an open data platform for 3-rd party developers or makers in long t
   - We don't have experiences about a successful data project, hence we don't know about key factors to support a successful platform for now. We might know after validated our end-user value.
 
 ## How to Feedback
-Please [add a new issue][issues] on the Issues, and let's discuss your ideas and questions. Thanks.
+Please [add a new issue][add-issue], and let's discuss your ideas and questions on the [Issues][issues]. Thanks for your feedback.
 
 ## SensorWeb's Lean Framework
 ### Value Hypothesis
@@ -98,4 +98,5 @@ Please [add a new issue][issues] on the Issues, and let's discuss your ideas and
 * [Eddie Lin](https://github.com/yshlin)
 * [Steve Chung](https://github.com/steveck-chung)
 
+[add-issue]: https://github.com/sensor-web/sensorweb-plan/issues/new
 [issues]: https://github.com/sensor-web/sensorweb-plan/issues
