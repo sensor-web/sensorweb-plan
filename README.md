@@ -5,11 +5,11 @@ SensorWeb is an open data platform for 3-rd party developers or makers in long t
 
 ![SensorWeb Concept](images/sensorweb-concept.png)
 
-## Q&A
+### Q&A
 * Why we are not creating the data platform at this stage?
   - We don't have experiences about a successful data project, hence we don't know about key factors to support a successful platform for now. We might know after validated our end-user value.
 
-## How to Feedback
+### How to Feedback
 Please [add a new issue][add-issue], and let's discuss your ideas and questions on the [Issues][issues]. Thanks for your feedback.
 
 ## SensorWeb's Lean Framework
