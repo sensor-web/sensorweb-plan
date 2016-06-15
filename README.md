@@ -9,6 +9,9 @@ SensorWeb is an open data platform for 3-rd party developers or makers in long t
 * Why we are not creating the data platform at this stage?
   - We don't have experiences about a successful data project, hence we don't know about key factors to support a successful platform for now. We might know after validated our end-user value.
 
+## How to Feedback
+Please [add a new issue][issues] on the Issues, and let's discuss your ideas and questions. Thanks.
+
 ## SensorWeb's Lean Framework
 ### Value Hypothesis
 * Question to Answer
@@ -94,3 +97,5 @@ SensorWeb is an open data platform for 3-rd party developers or makers in long t
 * [Evan Tseng](https://github.com/evanxd)
 * [Eddie Lin](https://github.com/yshlin)
 * [Steve Chung](https://github.com/steveck-chung)
+
+[issues]: https://github.com/sensor-web/sensorweb-plan/issues
