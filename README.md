@@ -87,3 +87,8 @@ We don't have experiences about a successful data project, hence we don't know a
 
 ### TODOs
 * ...
+
+## Maintainers
+* [Evan Tseng](https://github.com/evanxd)
+* [Eddie Lin](https://github.com/yshlin)
+* [Steve Chung](https://github.com/steveck-chung)
