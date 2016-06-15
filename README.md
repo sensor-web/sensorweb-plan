@@ -1,11 +1,11 @@
 # Lean Plan for SensorWeb
-###### We should focus on end-users product not platform
 We're focusing on validating end-user value and creating a minimum viable product(MVP) for them at this stage, not creating an open data platform for 3-rd party developers or makers.
 
 SensorWeb is an open data platform for 3-rd party developers or makers in long term. And Project PM2.5 is about creating solutions(apps or hardware) with SensorWeb technology for end-users.
 
-###### Why we are not creating the data platform at this stage?
-We don't have experiences about a successful data project, hence we don't know about key factors to support a successful platform for now. We might know after validated our end-user value.
+## FAQ
+* Why we are not creating the data platform at this stage?
+  - We don't have experiences about a successful data project, hence we don't know about key factors to support a successful platform for now. We might know after validated our end-user value.
 
 ## SensorWeb's Lean Framework
 ### Value Hypothesis
