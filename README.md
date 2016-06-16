@@ -10,7 +10,7 @@ We're focusing on validating end-user value and creating a minimum viable produc
   - Open Data Platform for IoT.
   - Community-based collaboration.
   - `var SensorWeb = Community(OpenData, IoT);`
-* Why we are not creating the data platform at this stage?
+* Why we are NOT creating the data platform at this stage?
   - We don't have experiences about a successful data project, hence we don't know about key factors to support a successful platform for now. We might know after validated our end-user value.
 * Why SensorWeb platform's users are developers or makers, not end-users?
   - We should not and cannot build a platform or product for everyone. We should and need to focus.
