@@ -22,7 +22,7 @@ We're focusing on validating end-user value and creating a minimum viable produc
 * What is the relationship between SensorWeb platform and end-users?
   - SensorWeb => Developers/Makers => End-users
   - SensorWeb platform help developers and makers build good products for end-users.
-  - For example, [Project PM2.5][project-pm25] is for end-users.
+  - For example, our pilot project [Project PM2.5][project-pm25] is for end-users.
 
 ### How to Feedback
 Please [add a new issue][add-issue], and let's discuss your ideas and questions on the [Issues][issues]. Thanks for your feedback.
