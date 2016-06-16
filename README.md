@@ -32,8 +32,8 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 ## SensorWeb's Hypothesis for Schools
 ### Value Hypothesis
 * Teachers in the schools with serious air pollution problem(e.g. Nearby Yunlin, Taiwan) want to have real-time PM2.5 data from nearby to help students live healthier in schools(e.g. PE class should be in the indoor when air quality is bad).
-  - Air pollution demonstrations are held in Changhua : http://goo.gl/fcwR7N
-  - Number of sensor station in Changhua is not enough : http://goo.gl/QENUpR 
+  - Air pollution demonstrations are held in Changhua: http://goo.gl/fcwR7N
+  - Number of sensor station in Changhua is not enough: http://goo.gl/QENUpR 
   - The top two worst cities are in the center part of Taiwan: http://goo.gl/SrLNf1
 
 ### Growth Hypothesis
