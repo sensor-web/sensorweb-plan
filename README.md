@@ -15,6 +15,9 @@ We're focusing on validating end-user value and creating a minimum viable produc
   - End-users cannot use our data service directly. They cannot write code.
   - End-users cannot build an IoT device for their needs.
   - As end-users, they just want to use products to improve their life.
+* What is the relationship between SensorWeb platform and end-users?
+  - SensorWeb => Developers&Makers => End-users
+  - SensorWeb platform help developers and makers build good products for end-users.
 
 ### How to Feedback
 Please [add a new issue][add-issue], and let's discuss your ideas and questions on the [Issues][issues]. Thanks for your feedback.
