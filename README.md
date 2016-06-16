@@ -52,8 +52,8 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 * Pros
   - We can do one time deployment to deliver our values to thousands students and teachers.
   - Whole society(government) really care about education environment. So it will help us to create the virus effects.
-  - We already have some connections with several schools. (three schools with thousands people deploy our PM2.5 stations) Especilly, a teacher from Nanguo Elementary School(2500+ people) in Changhua, Taiwan is using SensorWeb as the class material in his class. He is also planning a semester science project with his students to improve their air pollution issues.
-  - The air quality is really bad in center part of Taiwan because Formosa Plastics Corp's (FPC) sixth naphtha cracker complex is located there. And Nanguo Elementary School is also located in center part of Taiwan.
+  - We already have some connections with several schools. (three schools with thousands people deploy our PM2.5 stations) Especilly, a teacher from [Nanguo Elementary School(2500+ people)][nanguo] in Changhua, Taiwan is using SensorWeb as the class material in his class. He is also planning a semester science project with his students to improve their air pollution issues.
+  - The air quality is really bad in center part of Taiwan because Formosa Plastics Corp's (FPC) sixth naphtha cracker complex is located there. And [Nanguo Elementary School][nanguo] is also located in center part of Taiwan.
 * Cons
   - It would be difficult for schools to make purchases. (we can just give them our PM2.5 for free)
   - We don't know how people in schools cares about PM2.5. (same situation for most groups)
@@ -117,3 +117,4 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 [issues]: https://github.com/sensor-web/sensorweb-plan/issues
 [sensorweb]: http://sensorweb.io
 [project-pm25]: http://sensorweb.io/project.html
+[nanguo]: http://163.23.80.1/index1.html
