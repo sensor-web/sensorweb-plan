@@ -90,6 +90,7 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 ### TODOs
 * Interview with the school again to confirm our assumptions and options they have when air quality is bad.
 * Show them the benchmark of air quality sensors. Our sensor is accuracy enough for them to take actions.
+![Sensors Benchmark](images/sensors-benchmark.png)
 
 ## MVP 2 (Q3 2016)
 ### Assumption
