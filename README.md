@@ -91,7 +91,7 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 * Interview with the school again to confirm our assumptions and options they have when air quality is bad.
 * Show them the benchmark of air quality sensors. Our sensor is accuracy enough for them to take actions.
 
-## MVP 2
+## MVP 2 (Q3 2016)
 ### Assumption
 * (PE class) teachers will take action(e.g. go to indoor for PE classes when air quality is bad) if we provide dedicated app for them.
 
