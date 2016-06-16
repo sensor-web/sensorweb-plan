@@ -71,9 +71,9 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 * Teacher embedded widget on school website after 3 weeks.
 
 ### Metrics
-* Static link click through session count per day: 66/16 = 4.125
-* Widget link click through session count per day: 115/29 = 3.96
-* Widget click through conversion rate: 1.38%
+* Static link click through session count per day: `66/16 = 4.125`
+* Widget link click through session count per day: `115/29 = 3.96`
+* Widget click through conversion rate: `1.38%`
 
 ### Learning
 * The School is willing to add link to the Sensor Detail page.
