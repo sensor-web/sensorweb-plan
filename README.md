@@ -27,7 +27,7 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 ### Growth Hypothesis
 * Question to Answer
   - Is the demand strong enough to generate viral effect?
-* Customers want to help us spread the word
+* Customers want to help us spread the word.
 
 ## SensorWeb's Hypothesis for Schools
 ### Value Hypothesis
