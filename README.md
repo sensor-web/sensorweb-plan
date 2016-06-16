@@ -9,7 +9,8 @@ SensorWeb is an open data platform for 3-rd party developers or makers in long t
 * Why we are not creating the data platform at this stage?
   - We don't have experiences about a successful data project, hence we don't know about key factors to support a successful platform for now. We might know after validated our end-user value.
 * Why SensorWeb platform's users are developers or makers, not end-users?
-  - Our data service is for helping developers or makers focus on developing their ideas. We provide back-end support. And they will not need to re-build their data back-end.
+  - Our data service is for helping developers or makers focus on developing their ideas. We provide back-end support, and they can make their products without re-building their own data back-end. It's more efficient.
+  - Developers can re-use the open data to create solutions to fix new real world problems.
   - End-users cannot use our data service directly. They cannot write code.
   - End-users cannot build an IoT device for their needs.
   - As end-users, they just want to use products to improve their life.
