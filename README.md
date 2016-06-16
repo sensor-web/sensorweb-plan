@@ -108,11 +108,6 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 ### TODOs
 * ...
 
-## Maintainers
-* [Evan Tseng](https://github.com/evanxd)
-* [Eddie Lin](https://github.com/yshlin)
-* [Steve Chung](https://github.com/steveck-chung)
-
 [add-issue]: https://github.com/sensor-web/sensorweb-plan/issues/new
 [issues]: https://github.com/sensor-web/sensorweb-plan/issues
 [sensorweb]: http://sensorweb.io
