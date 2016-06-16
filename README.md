@@ -1,7 +1,7 @@
 # Lean Plan for SensorWeb
 We're focusing on validating end-user value and creating a minimum viable product(MVP) for them at this stage, not creating an open data platform for 3-rd party developers or makers.
 
-SensorWeb is an open data platform for 3-rd party developers or makers in long term. And Project PM2.5 is about creating solutions(apps or hardware) with SensorWeb technology for end-users.
+[SensorWeb][sensorweb] is an open data platform for 3-rd party developers or makers in long term. And [Project PM2.5][project-pm25] is about creating solutions(apps or hardware) with SensorWeb technology for end-users.
 
 ![SensorWeb Concept](images/sensorweb-concept.png)
 
@@ -106,3 +106,5 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 
 [add-issue]: https://github.com/sensor-web/sensorweb-plan/issues/new
 [issues]: https://github.com/sensor-web/sensorweb-plan/issues
+[sensorweb]: http://sensorweb.io
+[project-pm25]: http://sensorweb.io/project.html
