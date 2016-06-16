@@ -89,7 +89,7 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 
 ### TODOs
 * Interview with the school again to confirm our assumptions and options they have when air quality is bad.
-* Show them the benchmark of air quality sensors. Our sensor is accuracy enough for them to take actions.
+* Show them the [benchmark][sensors-benchmark] of air quality sensors. Our sensor is accuracy enough for them to take actions.
 ![Sensors Benchmark](images/sensors-benchmark.png)
 
 ## MVP 2 (Q3 2016)
@@ -114,3 +114,4 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
 [sensorweb]: http://sensorweb.io
 [project-pm25]: http://sensorweb.io/project.html
 [nanguo]: http://163.23.80.1/index1.html
+[sensors-benchmark]: http://aqicn.org/sensor
