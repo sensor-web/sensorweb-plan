@@ -59,7 +59,7 @@ Please [add a new issue][add-issue], and let's discuss your ideas and questions 
   - We don't know how people in schools cares about PM2.5. (same situation for most groups)
   - We might not have sufficient knowledge about actions they will take. (same situation for most groups)
 
-## MVP 1 (March 1 2016 ~)
+## MVP 1 (March 1 2016 - Now)
 ### Assumption
 * People in schools want to know their PM2.5 concentration by going to our website.
 
