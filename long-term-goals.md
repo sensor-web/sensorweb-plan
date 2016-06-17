@@ -3,6 +3,7 @@ Our long-term goal is to create an *open data platform for IoT* for engineers/sc
 
 ## How to Get There
 We have three steps to get our long-term goal.
+
 1. Make successful data project(s) by ourself.
 2. Third-party groups make successful data projects(s).
 3. Create SensorWeb ecosystem.
