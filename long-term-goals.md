@@ -1,4 +1,4 @@
-# Long-term Goal for SensorWeb(draft)
+# Long-term Goals for SensorWeb(draft)
 Our long-term goal is to create an *open data platform for IoT* for engineers/scientists to solve real world problems and deliver value to people.
 
 ## How to Get There
